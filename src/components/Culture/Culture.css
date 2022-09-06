@@ -1,0 +1,24 @@
+.text-fix-left  p, h4, h3, h5{
+    text-align:left;
+    color: #17285b;
+}
+
+.under-line p{
+    border-color: #17285b;
+    border-style: none  none solid none;
+    border-width: 0.1rem;
+}
+
+.text-fix-right {
+    text-align:left;
+    color: #17285b;
+}
+
+h3, h4 {
+    font-weight: 650;
+}
+
+.carer4 {
+    padding: 2rem 2rem 5rem 2rem;
+}
+

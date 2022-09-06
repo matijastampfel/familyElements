@@ -1,0 +1,11 @@
+.footer {
+    background-color: #17285b;
+    color: #E6C1B6;
+    padding: 2rem 2rem 2rem 2rem;
+    text-align: left;
+}
+
+.footer a {
+    color: #E6C1B6;
+    text-decoration: none;
+}

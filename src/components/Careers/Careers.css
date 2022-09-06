@@ -1,0 +1,65 @@
+
+
+.img-resize-chillingx {
+  width: 300px;
+  max-height: 500px;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  }
+
+  @media only screen and (max-width: 767px) {
+    .img-resize-chillingx {
+      display: none;
+    }
+  }
+
+  .img-resize-hallway {
+    width: 300px;
+    max-height: 500px;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    }
+
+    @media only screen and (min-width: 767px) {
+      .img-resize-hallway {
+        display: none;
+      }
+    }
+
+    @media only screen and (max-width: 767px) {
+      .h1control2 {
+        display: none;
+      }
+    }
+
+    @media only screen and (min-width: 767px) {
+      .h1control1{
+        display: none;
+      }
+    }
+
+ 
+
+
+
+  
+  .carer1 {
+    background-color: #92b0b8;
+    padding: 5rem 2rem 5rem 2rem;
+  }
+  
+  .text-fix {
+      text-align:left;
+      color: #560202;
+  }
+  
+  .carer1 h1 {
+      font-weight: 650;
+      text-align: left;
+    }
+
+    .text-fix p {
+      padding-top: 9%;
+    }

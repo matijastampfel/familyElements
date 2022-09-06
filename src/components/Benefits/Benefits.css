@@ -1,0 +1,28 @@
+.img-resize-chilling {
+    width: 30rem;
+    height: 20rem;
+  }
+
+  @media (max-width: 767px) {
+    .mg-resize-chilling {
+      width: 100%;
+      height: auto !important;
+    }
+  }
+  
+  .carer3 {
+    background-color: #92b0b8;
+    padding: 5rem 2rem 5rem 2rem;
+  }
+  
+  .text-fix {
+      text-align:left;
+      color: #560202;
+  }
+  
+  .carer3 h1 {
+      font-weight: 650;
+      text-align: left;
+      padding-bottom: 2rem;
+    }
+

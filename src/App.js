@@ -1,23 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+
+import "bootstrap/dist/css/bootstrap.min.css";
+import { Routes, Route } from "react-router-dom";
+
+
+import "./App.css";
+
+import Home from "./components/Home/Home";
+import NavBar from "./components/NavBar/NavigationBar";
+import Contact from "./components/Contact/Contact";
+import Careers from "./components/Careers/Careers";
+import { ColorContext } from './extra/Context/ColorContext';
+import useLocalStorage from './hooks/useLocalStorage';
 
 function App() {
+  const [color, setColor] = useLocalStorage("pink");
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <ColorContext.Provider value={{color, setColor}}>
+        <NavBar />
+      </ColorContext.Provider>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/careers" element={<Careers />} />
+          <Route path="/contact" element={<Contact />} />
+        </Routes>
+
     </div>
   );
 }

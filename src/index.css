@@ -8,6 +8,6 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: 'Lucifer Sans';
+  src: local('Lucifer Sans'), url(./fonts/Lucifer\ Sans\ Medium.otf) format('truetype');
 }

@@ -1,0 +1,47 @@
+
+.home3 {
+    background-color: #17285b;
+    text-align: left;
+    padding: 0.3rem 2rem 3rem 2rem;
+  }
+  
+  .home3 Image {
+    background-color: #17285b;
+    text-align: left;
+  }
+  
+  .home3 h2,
+  .home3 p {
+    color: #c9aba9;
+    text-align: left;
+    padding-top: 2rem;
+  }
+
+  .img-resize-chair {
+    width: 100%;
+    height: 62%;
+  }
+
+  @media (max-width: 767px) {
+    .img-resize-chair {
+      width: 100%;
+      height: auto !important;
+    }
+  }
+  
+  .img-resize-family {
+    width: 100%;
+    height: auto;
+  }
+
+  .img-resize-small {
+    width: 100%;
+    height: auto;
+  }
+
+  @media only screen and (max-width: 767px) {
+    .img-resize-flower {
+      display: none;
+    }
+  }
+
