@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/familyElements/static/css/main.a515c525.css",
+    "main.js": "/familyElements/static/js/main.c12c8cec.js",
+    "static/js/787.873a745b.chunk.js": "/familyElements/static/js/787.873a745b.chunk.js",
+    "static/media/ce97833d.png": "/familyElements/static/media/512dbc4bf05f4f6bee983d18540fd934ce97833d.fdebb9ce341f2af3dd71.png",
+    "static/media/74c1109f.png": "/familyElements/static/media/60f2d7a65bdc1ed49218185ebabc8c4d74c1109f.82eac4a43b824bf764c9.png",
+    "static/media/99a08414.png": "/familyElements/static/media/7d44adff70bf9da79e4c3b449ab902df99a08414.7af0e99d190a080e4213.png",
+    "static/media/8c75d045.png": "/familyElements/static/media/87c9facb5a88bfe795344e35b22fd9db8c75d045.cf7919b9fb1dc6e18677.png",
+    "static/media/7e63bd81.png": "/familyElements/static/media/9d1c5ec721743c5e6858a3407d2f69bd7e63bd81.ee782eb6ecee03538122.png",
+    "static/media/218aa6bf.png": "/familyElements/static/media/b8f26f0f4f31ba5ff2d45ffa49487a14218aa6bf.1adf966b37e521484249.png",
+    "static/media/ff57221f.png": "/familyElements/static/media/f9fe369f003dfcbf5ec89104f35a4161ff57221f.ad39da835d2f09fb13c8.png",
+    "static/media/4a7ad2dd.png": "/familyElements/static/media/1d2f300262cd4024761109c6556a77b14a7ad2dd.787b03f5e9d89a2509b5.png",
+    "static/media/5b9fb15c.png": "/familyElements/static/media/71b78f2321690f67c87bc0af95fb4cdb5b9fb15c.34872cb33a606a3a0771.png",
+    "static/media/8378373f.png": "/familyElements/static/media/68bc6f2ea528cbf66a104306fd6887788378373f.8153fcb69a89cbe257fe.png",
+    "static/media/Lucifer Sans Medium.otf": "/familyElements/static/media/Lucifer Sans Medium.667d8fb826ac609ca395.otf",
+    "index.html": "/familyElements/index.html",
+    "main.a515c525.css.map": "/familyElements/static/css/main.a515c525.css.map",
+    "main.c12c8cec.js.map": "/familyElements/static/js/main.c12c8cec.js.map",
+    "787.873a745b.chunk.js.map": "/familyElements/static/js/787.873a745b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a515c525.css",
+    "static/js/main.c12c8cec.js"
+  ]
+}
